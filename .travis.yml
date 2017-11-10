@@ -2,6 +2,8 @@ language: python
 python:
   - "3.4"
   - "3.5"
+addons:
+  firefox: "54.0.1"
 branches:
   only:
     - master
