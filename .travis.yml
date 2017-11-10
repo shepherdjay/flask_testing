@@ -4,9 +4,6 @@ python:
   - "3.5"
 addons:
   firefox: "54.0.1"
-branches:
-  only:
-    - master
 
 #To go headless
 before_install:
